@@ -1,0 +1,14 @@
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\bin\Debug\Lab5_WF_2212387.exe.config
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\bin\Debug\Lab5_WF_2212387.exe
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\bin\Debug\Lab5_WF_2212387.pdb
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\bin\Debug\Newtonsoft.Json.dll
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\bin\Debug\Newtonsoft.Json.xml
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.csproj.AssemblyReference.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.csproj.SuggestedBindingRedirects.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.Properties.Resources.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.csproj.GenerateResource.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.csproj.CoreCompileInputs.cache
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.csproj.CopyComplete
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.exe
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.pdb
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.MainForm.resources
