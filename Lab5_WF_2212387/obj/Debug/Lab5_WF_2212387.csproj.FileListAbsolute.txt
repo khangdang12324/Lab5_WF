@@ -12,3 +12,4 @@ E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_221238
 E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.exe
 E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.pdb
 E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.MainForm.resources
+E:\PhatTrienUngDungDesktop\BaiTapTKForm\Lab5_WF_2212387\obj\Debug\Lab5_WF_2212387.frmAddSubjects.resources

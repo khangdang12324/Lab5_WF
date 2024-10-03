@@ -18,7 +18,7 @@ namespace Lab5_WF_2212387
 		public	string SoDT { get; set; }
 		public bool  GioiTinh { get; set; }
 		public string DiaChi { get; set; }
-		public List<string> MonHoc { get;set }
+		public List<string> MonHoc { get; set; }
 		
 		//Phuoc thuc tao lap
 		public SinhVien()
